@@ -31,6 +31,11 @@ body {
     text-align: center;
     width: 34px;
   }
+
+  .board {
+    border: 5px solid #a1d;
+    border-radius: 2%;
+  }
   
   .square:focus {
     outline: none;
